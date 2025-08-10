@@ -49,4 +49,4 @@ A aplicação permite que você adicione nomes, embaralhe e sorteie automaticame
 
 ## 👤 Autor
 
-Feito com ❤️ por [**Turusler Dev**](https://github.com/Vuenar/challenge-amigo-secreto_pt-main) 🚀
+Feito com ❤️ por [**Vuenar**](https://github.com/Vuenar/challenge-amigo-secreto_pt-main) 🚀
