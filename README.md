@@ -55,4 +55,4 @@ Estou aprimorando minhas habilidades em desenvolvimento web, aplicando HTML, CSS
 
 ## 👤 Autor
 
-Feito com ❤️ por [**Vuenar**](https://github.com/Vuenar/challenge-amigo-secreto_pt-main) 🚀
+Feito com ❤️ por [**Vuenar**](https://github.com/Vuenar) 🚀
