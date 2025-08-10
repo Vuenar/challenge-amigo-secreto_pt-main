@@ -41,4 +41,4 @@ A aplicação permite que você adicione nomes, embaralhe e sorteie automaticame
 
 1. Baixe ou clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Vuenar/challenge-amigo-secreto_pt-main
