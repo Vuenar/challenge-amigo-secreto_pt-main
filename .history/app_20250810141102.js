@@ -32,5 +32,5 @@ function exibirListaAmigos() {
         const indice = Math.floor(Math.random() * amigos.length); // Gerar índice aleatório
         const nomeSorteado = amigos[indice]; // Obter nome sorteado
         const resultado = document.getElementById('resultado');
-        resultado.innerHTML = `O amigo secreto sorteado é: ${nomeSorteado} ! 🎁`; // Mostrar resultado
+        resultado.innerHTML = `O amigo secreto sorteado é: ${nomeSorteado} ! 🎉🎊`; // Mostrar resultado
     }
