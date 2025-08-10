@@ -5,6 +5,12 @@ A aplicação permite que você adicione nomes, embaralhe e sorteie automaticame
 
 ---
 
+🎓 Este projeto foi desenvolvido como parte da minha jornada no programa **Oracle Next Education (ONE)** em parceria com a **Alura**.  
+Estou aprimorando minhas habilidades em desenvolvimento web, aplicando HTML, CSS e JavaScript em projetos práticos e desafiadores.
+
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)]()
+[![Alura](https://img.shields.io/badge/Alura-052F56?style=for-the-badge&logo=alura&logoColor=white)](https://www.alura.com.br)
+
 ## 🚀 Tecnologias Utilizadas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
